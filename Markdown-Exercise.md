@@ -121,4 +121,4 @@ turpis accumsan neque porttitor efficitur. Nullam vulputate ultrices justo, impe
 [^2]: Pellentesque venenatis nisl sodales, aliquet magna in, elementum erat.
 [^3]: Nullam porta quam faucibus rutrum egestas.
 [^4]: Quisque vulputate nibh sit amet orci tristique auctor vitae tincidunt turpis.
-[^5]: [Programiz](https://www.programiz.com/python-programming/examples/prime-number)
+[^5]: Code example taken from [Programiz](https://www.programiz.com/python-programming/examples/prime-number)
